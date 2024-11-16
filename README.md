@@ -1,4 +1,4 @@
-# global design Crowddsourcing 
+# Global Design Crowdsourcing 
 
 A MERN stack application that integrates Python for model execution, with a React frontend, Node.js backend, and MongoDB for data management.
 
