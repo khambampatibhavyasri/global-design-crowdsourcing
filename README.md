@@ -5,7 +5,7 @@ A MERN stack application that integrates Python for model execution, with a Reac
 ---
 
 ## Project Structure  
-plaintext
+
 📂 client    # React frontend  
 📂 server    # Node.js backend  
 📂 model     # Python model  
